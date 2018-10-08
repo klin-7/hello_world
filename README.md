@@ -1,2 +1,2 @@
 # hello_world
-some tests
+just some tests
